@@ -4,6 +4,7 @@ app_publisher = "shihab-frappe"
 app_description = "shihab-frappe"
 app_email = "shihab-frappe@email.com"
 app_license = "mit"
+app_dependencies = ["erpnext"]
 # required_apps = []
 
 # Includes in <head>
